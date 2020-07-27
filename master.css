@@ -1,0 +1,35 @@
+body{
+    background-image: url("http://wallpapercave.com/wp/Y6lyC3E.jpg");
+    font-family: Roboto, Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    
+}
+a{
+    color: blue;
+    text-decoration: navajowhite;
+}
+a:hover{
+    color: red;
+    text-decoration: navajowhite;
+}
+
+
+footer{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+h1{
+    margin-bottom: 0.5rem;
+    margin-top: 3rem;
+    text-shadow: 4px 4px 4px lightpink;
+}
+h2{
+    margin-bottom: 2.5rem;
+    margin-top: 2.5rem;
+    text-shadow: 4px 4px 4px lightslategray;
+}
+p{
+    color:black;
+}
+
+   
